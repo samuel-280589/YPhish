@@ -3,7 +3,7 @@
 
 <h2>Instalacion:</h2>
 
-<h2>git clone https://github.com/thiagous06/YPhish.git</h2>
+<h2>git clone https://github.com/samuel-280589/YPhish.git</h2>
 
 <h2>cd YPhish</h2>
 
